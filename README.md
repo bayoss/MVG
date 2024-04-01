@@ -1,6 +1,6 @@
-# Minimum Viable Governance
+# Minimum Viable Governance 最小可行治理
 
-## What is Minimum Viable Governance?
+## 什么是最小可行治理？
 
 Minimum Viable Governance (MVG) - currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects. At the top level (called an "organization" on GitHub), there is a technical steering committee to make decisions about the overall direction and coordination between all the organization's projects. Underneath that top level are the individual projects, with lightweight, consensus-based governance.
 
@@ -8,11 +8,11 @@ There are two folders. The first, org-docs, provides top-level organizational go
 
 Minimum Viable Governance is meant as a way to quickly stand up collaborations that can grow with your organization and projects. If your organization grows to the point where a corporate home becomes necessary, typically when your organization begins holding money, MVG is designed to make that transition easy.
 
-## Why would we want to use this?
+## 为什么要采用？
 
 Minimum Viable Governance allows you to start an organization and sub-projects with simple governance in place at the outset - including legal terms, licensing and trademark issues, and due process. Having this governance in place early helps avoid disputes among participants down the road.
 
-## How do we use this?
+## 如何采用？
 
 1. Review the documents and determine if this is right for you.
 2. Describe the organization's mission in Section 1 of the [CHARTER.md](org-docs/CHARTER.md) file.
@@ -21,7 +21,7 @@ Minimum Viable Governance allows you to start an organization and sub-projects w
 5. [Choose a license](https://choosealicense.com/) or fill out the copyright information in the MIT [LICENSE.md](project-docs/LICENSE.md) file for each project.
 6. Get to work.
 
-## Contributing
+## 参与贡献
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
@@ -29,7 +29,7 @@ Contributions to this project are [released](https://help.github.com/articles/gi
 
 Please note that this project is released with a [Contributor Code of Conduct](https://raw.githubusercontent.com/EthicalSource/contributor_covenant/release/content/version/2/0/code_of_conduct.md) (CoC). By participating in this project you agree to abide by its terms. Violations of the CoC should be reported to: opensource@github.com. To avoid confusion with MVG artifacts, we did not place the CoC in the repo.
 
-### Submitting a pull request
+### 提交 PR
 
 1. [Fork](https://github.com/github/MVG/fork) and clone the repository
 2. Create a new branch: `git checkout -b my-branch-name`
