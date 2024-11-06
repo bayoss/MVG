@@ -1,12 +1,12 @@
-# Maintainers
+# 维护者
 
-This document lists the Maintainers of the Project. Maintainers may be added once approved by the existing maintainers as described in the [Governance document](./GOVERNANCE.md). By adding your name to this list you are agreeing to abide by the Project governance documents and to abide by all of the Organization's polices, including the [code of conduct](../org-docs/CODE-OF-CONDUCT.md), [trademark policy](../org-docs/TRADEMARKS.md), and [antitrust policy](../org-docs/ANTITRUST.md). If you are participating because of your affiliation with another organization (designated below), you represent that you have the authority to bind that organization to these policies.
+本文档记录了项目的维护者列表。按照[治理](./GOVNANCE.md)中的说明，一旦获得现有维护者的批准，即可添加维护者。将你的名字加入此名单即表示你同意遵守项目治理文件和本组织的所有政策，包括[行为准则](.../org-docs/CODE-OF-CODUCT.md)、[商标政策](.../org-docs/TRADEMARKS.md)和[反垄断政策](.../org-docs/ANTITRUST.md)。如果你因隶属于其他组织（如下文指定）而参与，则表示你有权使该组织受这些政策约束。
 
-| **NAME** | **Organization** |
+| **姓名** | **所在组织** |
 | --- | --- |
-| Maintainer 1 | |
-| Maintainer 2 | |
+| 维护者 1 | |
+| 维护者 2 | |
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+MVG-0.1-beta的一部分。
+由有爱的 GitHub 制。使用许可 [CC-BY 4.0 ](https://creativecommons.org/licenses/by/4.0/)。
