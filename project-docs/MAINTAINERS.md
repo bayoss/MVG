@@ -8,5 +8,5 @@
 | 维护者 2 | |
 
 ---
-MVG-0.1-beta的一部分。
-由有爱的 GitHub 制。使用许可 [CC-BY 4.0 ](https://creativecommons.org/licenses/by/4.0/)。
+属于 MVG-0.1-beta 的一部分。
+由有爱的 GitHub 制作。使用许可 [CC-BY 4.0 ](https://creativecommons.org/licenses/by/4.0/)。
